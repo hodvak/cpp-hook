@@ -1,4 +1,4 @@
 venv
 dist
 git_cpp_hook.egg-info
-
+.idea
